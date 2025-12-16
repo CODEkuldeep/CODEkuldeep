@@ -2,12 +2,9 @@
 <h3 align="center">MERN Stack Developer | Frontend-Focused | Open Source Contributor</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kuldeep-kumar-371b4439b/" target="_blank">
+  <a href="[https://www.linkedin.com/in/kuldeep-kumar-659690213/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="https://kuldeep-dev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=netlify">
-  </a>
+ 
   <a href="https://github.com/CODEkuldeep">
     <img src="https://komarev.com/ghpvc/?username=CODEkuldeep&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
@@ -16,10 +13,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 **B.Tech in Computer Science (2024)**
-- 💻 **MERN Stack Developer** (React, Node, Express, MongoDB)
-- 🌱 Currently improving **DSA + System Design basics**
 - 🔥 Actively contributing to **Open Source**
 - 🎯 Goal: **Frontend / Full-Stack Internship & Junior Developer Role**
 - 🧠 Believe in **learning by building real projects**
@@ -43,8 +36,6 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat)
 
 ---
 
@@ -56,8 +47,6 @@
 - 📊 Filters & Status Management
 - 🌐 Deployed (Netlify + Render)
 
-👉 **Live:** https://taskflowkd.netlify.app  
-👉 **Repo:** https://github.com/CODEkuldeep/taskflow
 
 ---
 
@@ -66,7 +55,6 @@
 - 🎨 Fully responsive UI
 - 📄 Resume-based Q&A chatbot
 
-👉 **Live:** https://kuldeep-dev.netlify.app
 
 ---
 
@@ -89,9 +77,8 @@
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kuldeep-kumar-371b4439b/
-- 🌐 Portfolio: https://kuldeep-dev.netlify.app
-- 📧 Email: kuldeepkumar.dev@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/kuldeep-kumar-659690213/
+- 📧 Email: kuldeepsanyam639@gmail.com
 
 ---
 
